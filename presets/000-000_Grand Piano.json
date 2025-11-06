@@ -9,6 +9,7 @@
     {
       "generators": {
         "initialFilterQ": 60,
+        "reverbEffectsSend": 100,
         "decayModEnv": 583,
         "decayVolEnv": 583,
         "initialAttenuation": 130,
