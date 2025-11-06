@@ -2,9 +2,9 @@
   "name": "Bottle Chiff Expr.",
   "bank": 17,
   "preset_number": 76,
-  "library": 61670317,
-  "genre": 61670317,
-  "morphology": 61670317,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {},

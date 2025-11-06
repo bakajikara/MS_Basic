@@ -2,9 +2,9 @@
   "name": "Strings Fast Expr.",
   "bank": 17,
   "preset_number": 48,
-  "library": 77268123,
-  "genre": 77268123,
-  "morphology": 77268123,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

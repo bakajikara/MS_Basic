@@ -2,9 +2,9 @@
   "name": "Detuned Saw Expr.",
   "bank": 21,
   "preset_number": 81,
-  "library": 90834282,
-  "genre": 90834282,
-  "morphology": 90834282,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

@@ -2,9 +2,9 @@
   "name": "Slow Violin",
   "bank": 8,
   "preset_number": 40,
-  "library": 16056565,
-  "genre": 16056565,
-  "morphology": 16056565,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {},

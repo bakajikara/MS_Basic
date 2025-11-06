@@ -2,9 +2,9 @@
   "name": "Synth Brass 4 Expr.",
   "bank": 18,
   "preset_number": 63,
-  "library": 67437573,
-  "genre": 67437573,
-  "morphology": 67437573,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

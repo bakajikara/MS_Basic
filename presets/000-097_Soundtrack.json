@@ -2,9 +2,9 @@
   "name": "Soundtrack",
   "bank": 0,
   "preset_number": 97,
-  "library": 6488163,
-  "genre": 6488163,
-  "morphology": 6488163,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

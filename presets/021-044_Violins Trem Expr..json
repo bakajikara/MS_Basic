@@ -2,9 +2,9 @@
   "name": "Violins Trem Expr.",
   "bank": 21,
   "preset_number": 44,
-  "library": 80872658,
-  "genre": 80872658,
-  "morphology": 80872658,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

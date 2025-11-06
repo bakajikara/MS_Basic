@@ -2,9 +2,9 @@
   "name": "Warm Pad",
   "bank": 0,
   "preset_number": 89,
-  "library": 75302013,
-  "genre": 75302013,
-  "morphology": 75302013,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

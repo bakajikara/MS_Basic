@@ -2,9 +2,9 @@
   "name": "Violins2 Tremolo",
   "bank": 25,
   "preset_number": 44,
-  "library": 81724639,
-  "genre": 81724639,
-  "morphology": 81724639,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

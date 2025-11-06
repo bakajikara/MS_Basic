@@ -2,9 +2,9 @@
   "name": "Bright Grand Piano",
   "bank": 0,
   "preset_number": 1,
-  "library": 68813850,
-  "genre": 68813850,
-  "morphology": 68813850,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

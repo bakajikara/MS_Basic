@@ -2,9 +2,9 @@
   "name": "Celli Slow",
   "bank": 40,
   "preset_number": 49,
-  "library": 86443303,
-  "genre": 86443303,
-  "morphology": 86443303,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

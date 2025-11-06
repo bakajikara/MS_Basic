@@ -2,9 +2,9 @@
   "name": "Celli Tremolo",
   "bank": 40,
   "preset_number": 44,
-  "library": 85591322,
-  "genre": 85591322,
-  "morphology": 85591322,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

@@ -2,9 +2,9 @@
   "name": "Basses Pizzicato",
   "bank": 50,
   "preset_number": 45,
-  "library": 87819580,
-  "genre": 87819580,
-  "morphology": 87819580,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

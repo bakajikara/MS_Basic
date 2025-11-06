@@ -2,9 +2,9 @@
   "name": "808 Tom",
   "bank": 8,
   "preset_number": 118,
-  "library": 15073510,
-  "genre": 15073510,
-  "morphology": 15073510,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {}

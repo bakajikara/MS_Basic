@@ -2,9 +2,9 @@
   "name": "Viola Expr.",
   "bank": 17,
   "preset_number": 41,
-  "library": 57344875,
-  "genre": 57344875,
-  "morphology": 57344875,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

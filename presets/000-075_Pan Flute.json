@@ -2,9 +2,9 @@
   "name": "Pan Flute",
   "bank": 0,
   "preset_number": 75,
-  "library": 55706450,
-  "genre": 55706450,
-  "morphology": 55706450,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

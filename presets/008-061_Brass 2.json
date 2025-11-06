@@ -2,9 +2,9 @@
   "name": "Brass 2",
   "bank": 8,
   "preset_number": 61,
-  "library": 15859954,
-  "genre": 15859954,
-  "morphology": 15859954,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {},

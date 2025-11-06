@@ -2,9 +2,9 @@
   "name": "Ice Rain",
   "bank": 0,
   "preset_number": 96,
-  "library": 6684774,
-  "genre": 6684774,
-  "morphology": 6684774,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

@@ -2,9 +2,9 @@
   "name": "Synth Drum",
   "bank": 0,
   "preset_number": 118,
-  "library": 50594564,
-  "genre": 50594564,
-  "morphology": 50594564,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {}

@@ -2,9 +2,9 @@
   "name": "Synth Voice Expr.",
   "bank": 17,
   "preset_number": 54,
-  "library": 58917763,
-  "genre": 58917763,
-  "morphology": 58917763,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

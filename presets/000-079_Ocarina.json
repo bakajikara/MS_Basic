@@ -2,9 +2,9 @@
   "name": "Ocarina",
   "bank": 0,
   "preset_number": 79,
-  "library": 13435085,
-  "genre": 13435085,
-  "morphology": 13435085,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {},

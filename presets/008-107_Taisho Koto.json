@@ -2,9 +2,9 @@
   "name": "Taisho Koto",
   "bank": 8,
   "preset_number": 107,
-  "library": 15663343,
-  "genre": 15663343,
-  "morphology": 15663343,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {}

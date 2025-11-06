@@ -2,9 +2,9 @@
   "name": "Metal Pad Expr.",
   "bank": 17,
   "preset_number": 93,
-  "library": 64422871,
-  "genre": 64422871,
-  "morphology": 64422871,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

@@ -2,9 +2,9 @@
   "name": "Oboe",
   "bank": 0,
   "preset_number": 68,
-  "library": 50856712,
-  "genre": 50856712,
-  "morphology": 50856712,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

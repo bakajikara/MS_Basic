@@ -2,9 +2,9 @@
   "name": "Bass & Lead Expr.",
   "bank": 17,
   "preset_number": 87,
-  "library": 63308742,
-  "genre": 63308742,
-  "morphology": 63308742,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

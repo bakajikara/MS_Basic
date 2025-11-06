@@ -2,9 +2,9 @@
   "name": "Drawbar Organ",
   "bank": 0,
   "preset_number": 16,
-  "library": 43516568,
-  "genre": 43516568,
-  "morphology": 43516568,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

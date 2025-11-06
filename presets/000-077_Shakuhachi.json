@@ -2,9 +2,9 @@
   "name": "Shakuhachi",
   "bank": 0,
   "preset_number": 77,
-  "library": 19136804,
-  "genre": 19136804,
-  "morphology": 19136804,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {},

@@ -2,9 +2,9 @@
   "name": "Picked Bass",
   "bank": 0,
   "preset_number": 34,
-  "library": 37880386,
-  "genre": 37880386,
-  "morphology": 37880386,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {}

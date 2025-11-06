@@ -2,9 +2,9 @@
   "name": "Mandolin",
   "bank": 16,
   "preset_number": 25,
-  "library": 14811362,
-  "genre": 14811362,
-  "morphology": 14811362,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {}

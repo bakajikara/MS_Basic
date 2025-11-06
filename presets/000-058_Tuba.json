@@ -2,9 +2,9 @@
   "name": "Tuba",
   "bank": 0,
   "preset_number": 58,
-  "library": 50987786,
-  "genre": 50987786,
-  "morphology": 50987786,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

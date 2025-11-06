@@ -2,9 +2,9 @@
   "name": "Metronome",
   "bank": 10,
   "preset_number": 115,
-  "library": 1389,
-  "genre": 1389,
-  "morphology": 1389,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {}

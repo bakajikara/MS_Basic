@@ -2,9 +2,9 @@
   "name": "Pan Flute Expr.",
   "bank": 17,
   "preset_number": 75,
-  "library": 61539243,
-  "genre": 61539243,
-  "morphology": 61539243,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

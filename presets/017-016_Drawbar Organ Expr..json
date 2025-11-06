@@ -2,9 +2,9 @@
   "name": "Drawbar Organ Expr.",
   "bank": 17,
   "preset_number": 16,
-  "library": 56099672,
-  "genre": 56099672,
-  "morphology": 56099672,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {
