@@ -2,9 +2,9 @@
   "name": "Sweep Pad Expr.",
   "bank": 17,
   "preset_number": 95,
-  "library": 64816093,
-  "genre": 64816093,
-  "morphology": 64816093,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

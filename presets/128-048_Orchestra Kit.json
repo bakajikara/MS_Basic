@@ -2,9 +2,9 @@
   "name": "Orchestra Kit",
   "bank": 128,
   "preset_number": 48,
-  "library": 39518811,
-  "genre": 39518811,
-  "morphology": 39518811,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

@@ -2,9 +2,9 @@
   "name": "Flute",
   "bank": 0,
   "preset_number": 73,
-  "library": 18219286,
-  "genre": 18219286,
-  "morphology": 18219286,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

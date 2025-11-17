@@ -2,9 +2,9 @@
   "name": "Violins2 Pizzicato",
   "bank": 25,
   "preset_number": 45,
-  "library": 81921250,
-  "genre": 81921250,
-  "morphology": 81921250,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

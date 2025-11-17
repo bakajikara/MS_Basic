@@ -2,9 +2,9 @@
   "name": "Palm Muted Guitar",
   "bank": 0,
   "preset_number": 28,
-  "library": 49087213,
-  "genre": 49087213,
-  "morphology": 49087213,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

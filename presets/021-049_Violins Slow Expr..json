@@ -2,9 +2,9 @@
   "name": "Violins Slow Expr.",
   "bank": 21,
   "preset_number": 49,
-  "library": 81462491,
-  "genre": 81462491,
-  "morphology": 81462491,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

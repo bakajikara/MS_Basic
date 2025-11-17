@@ -2,9 +2,9 @@
   "name": "Orchestral Pad",
   "bank": 8,
   "preset_number": 48,
-  "library": 75433087,
-  "genre": 75433087,
-  "morphology": 75433087,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

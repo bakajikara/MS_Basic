@@ -2,9 +2,9 @@
   "name": "Concert Bass Drum",
   "bank": 8,
   "preset_number": 116,
-  "library": 15401195,
-  "genre": 15401195,
-  "morphology": 15401195,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {}

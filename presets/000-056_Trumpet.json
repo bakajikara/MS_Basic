@@ -2,9 +2,9 @@
   "name": "Trumpet",
   "bank": 0,
   "preset_number": 56,
-  "library": 54395710,
-  "genre": 54395710,
-  "morphology": 54395710,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

@@ -2,9 +2,9 @@
   "name": "Shenai",
   "bank": 0,
   "preset_number": 111,
-  "library": 18088212,
-  "genre": 18088212,
-  "morphology": 18088212,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {},

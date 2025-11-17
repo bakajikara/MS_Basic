@@ -2,9 +2,9 @@
   "name": "Celli Pizzicato",
   "bank": 40,
   "preset_number": 45,
-  "library": 85853470,
-  "genre": 85853470,
-  "morphology": 85853470,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

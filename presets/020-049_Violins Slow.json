@@ -2,9 +2,9 @@
   "name": "Violins Slow",
   "bank": 20,
   "preset_number": 49,
-  "library": 80610510,
-  "genre": 80610510,
-  "morphology": 80610510,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

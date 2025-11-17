@@ -2,9 +2,9 @@
   "name": "Church Organ 2 Expr.",
   "bank": 18,
   "preset_number": 19,
-  "library": 66454518,
-  "genre": 66454518,
-  "morphology": 66454518,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {},

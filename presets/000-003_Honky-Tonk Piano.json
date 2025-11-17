@@ -2,9 +2,9 @@
   "name": "Honky-Tonk Piano",
   "bank": 0,
   "preset_number": 3,
-  "library": 69796905,
-  "genre": 69796905,
-  "morphology": 69796905,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

@@ -2,9 +2,9 @@
   "name": "Violas Tremolo",
   "bank": 30,
   "preset_number": 44,
-  "library": 83625212,
-  "genre": 83625212,
-  "morphology": 83625212,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

@@ -2,9 +2,9 @@
   "name": "Fiddle",
   "bank": 0,
   "preset_number": 110,
-  "library": 55444302,
-  "genre": 55444302,
-  "morphology": 55444302,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

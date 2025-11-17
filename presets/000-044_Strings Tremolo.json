@@ -2,9 +2,9 @@
   "name": "Strings Tremolo",
   "bank": 0,
   "preset_number": 44,
-  "library": 71631941,
-  "genre": 71631941,
-  "morphology": 71631941,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

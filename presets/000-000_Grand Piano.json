@@ -2,9 +2,9 @@
   "name": "Grand Piano",
   "bank": 0,
   "preset_number": 0,
-  "library": 67830795,
-  "genre": 67830795,
-  "morphology": 67830795,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

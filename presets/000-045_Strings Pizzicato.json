@@ -2,9 +2,9 @@
   "name": "Strings Pizzicato",
   "bank": 0,
   "preset_number": 45,
-  "library": 72287311,
-  "genre": 72287311,
-  "morphology": 72287311,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

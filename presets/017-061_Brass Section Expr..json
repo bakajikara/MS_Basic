@@ -2,9 +2,9 @@
   "name": "Brass Section Expr.",
   "bank": 17,
   "preset_number": 61,
-  "library": 59704207,
-  "genre": 59704207,
-  "morphology": 59704207,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

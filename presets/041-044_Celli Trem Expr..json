@@ -2,9 +2,9 @@
   "name": "Celli Trem Expr.",
   "bank": 41,
   "preset_number": 44,
-  "library": 86705451,
-  "genre": 86705451,
-  "morphology": 86705451,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

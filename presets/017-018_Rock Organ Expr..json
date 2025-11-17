@@ -2,9 +2,9 @@
   "name": "Rock Organ Expr.",
   "bank": 17,
   "preset_number": 18,
-  "library": 56361820,
-  "genre": 56361820,
-  "morphology": 56361820,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

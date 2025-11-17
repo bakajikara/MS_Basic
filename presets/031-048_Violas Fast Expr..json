@@ -2,9 +2,9 @@
   "name": "Violas Fast Expr.",
   "bank": 31,
   "preset_number": 48,
-  "library": 84935952,
-  "genre": 84935952,
-  "morphology": 84935952,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

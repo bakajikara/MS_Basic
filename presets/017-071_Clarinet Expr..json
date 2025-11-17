@@ -2,9 +2,9 @@
   "name": "Clarinet Expr.",
   "bank": 17,
   "preset_number": 71,
-  "library": 61014947,
-  "genre": 61014947,
-  "morphology": 61014947,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

@@ -2,9 +2,9 @@
   "name": "Violin Expr.",
   "bank": 17,
   "preset_number": 40,
-  "library": 57213801,
-  "genre": 57213801,
-  "morphology": 57213801,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

@@ -2,9 +2,9 @@
   "name": "Violas Slow",
   "bank": 30,
   "preset_number": 49,
-  "library": 84477193,
-  "genre": 84477193,
-  "morphology": 84477193,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

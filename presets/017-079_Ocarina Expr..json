@@ -2,9 +2,9 @@
   "name": "Ocarina Expr.",
   "bank": 17,
   "preset_number": 79,
-  "library": 62063539,
-  "genre": 62063539,
-  "morphology": 62063539,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {},

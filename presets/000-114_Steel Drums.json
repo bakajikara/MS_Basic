@@ -2,9 +2,9 @@
   "name": "Steel Drums",
   "bank": 0,
   "preset_number": 114,
-  "library": 50201342,
-  "genre": 50201342,
-  "morphology": 50201342,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {}

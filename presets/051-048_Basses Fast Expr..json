@@ -2,9 +2,9 @@
   "name": "Basses Fast Expr.",
   "bank": 51,
   "preset_number": 48,
-  "library": 88933709,
-  "genre": 88933709,
-  "morphology": 88933709,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

@@ -2,9 +2,9 @@
   "name": "Clavinet",
   "bank": 0,
   "preset_number": 7,
-  "library": 46727881,
-  "genre": 46727881,
-  "morphology": 46727881,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

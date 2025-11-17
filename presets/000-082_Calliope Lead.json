@@ -2,9 +2,9 @@
   "name": "Calliope Lead",
   "bank": 0,
   "preset_number": 82,
-  "library": 55837524,
-  "genre": 55837524,
-  "morphology": 55837524,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

@@ -2,9 +2,9 @@
   "name": "Strings Slow Expr.",
   "bank": 17,
   "preset_number": 49,
-  "library": 78709937,
-  "genre": 78709937,
-  "morphology": 78709937,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

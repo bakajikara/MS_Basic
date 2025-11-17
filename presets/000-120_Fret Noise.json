@@ -2,9 +2,9 @@
   "name": "Fret Noise",
   "bank": 0,
   "preset_number": 120,
-  "library": 50070268,
-  "genre": 50070268,
-  "morphology": 50070268,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {}

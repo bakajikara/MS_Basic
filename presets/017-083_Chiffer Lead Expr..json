@@ -2,9 +2,9 @@
   "name": "Chiffer Lead Expr.",
   "bank": 17,
   "preset_number": 83,
-  "library": 62522298,
-  "genre": 62522298,
-  "morphology": 62522298,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

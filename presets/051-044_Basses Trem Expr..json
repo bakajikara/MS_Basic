@@ -2,9 +2,9 @@
   "name": "Basses Trem Expr.",
   "bank": 51,
   "preset_number": 44,
-  "library": 88474950,
-  "genre": 88474950,
-  "morphology": 88474950,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

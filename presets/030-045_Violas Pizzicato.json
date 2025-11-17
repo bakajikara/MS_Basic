@@ -2,9 +2,9 @@
   "name": "Violas Pizzicato",
   "bank": 30,
   "preset_number": 45,
-  "library": 83821823,
-  "genre": 83821823,
-  "morphology": 83821823,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

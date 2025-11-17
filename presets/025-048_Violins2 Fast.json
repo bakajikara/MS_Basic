@@ -2,9 +2,9 @@
   "name": "Violins2 Fast",
   "bank": 25,
   "preset_number": 48,
-  "library": 82117861,
-  "genre": 82117861,
-  "morphology": 82117861,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

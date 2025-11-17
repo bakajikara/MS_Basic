@@ -2,9 +2,9 @@
   "name": "English Horn",
   "bank": 0,
   "preset_number": 69,
-  "library": 50725638,
-  "genre": 50725638,
-  "morphology": 50725638,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

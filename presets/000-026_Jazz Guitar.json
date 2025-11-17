@@ -2,9 +2,9 @@
   "name": "Jazz Guitar",
   "bank": 0,
   "preset_number": 26,
-  "library": 44827308,
-  "genre": 44827308,
-  "morphology": 44827308,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {

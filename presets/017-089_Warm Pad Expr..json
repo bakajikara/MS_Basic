@@ -2,9 +2,9 @@
   "name": "Warm Pad Expr.",
   "bank": 17,
   "preset_number": 89,
-  "library": 79496381,
-  "genre": 79496381,
-  "morphology": 79496381,
+  "library": 0,
+  "genre": 0,
+  "morphology": 0,
   "zones": [
     {
       "generators": {
