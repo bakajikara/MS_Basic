@@ -9,7 +9,7 @@
     {
       "generators": {
         "chorusEffectsSend": 70,
-        "reverbEffectsSend": 100,
+        "reverbEffectsSend": 30,
         "initialAttenuation": 140
       },
       "modulators": [
